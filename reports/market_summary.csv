@@ -1,0 +1,9 @@
+market_segment,Bookings,Average_ADR,Cancellation_Rate
+Aviation,227,100.17,20.0
+Complementary,702,3.05,13.0
+Corporate,4212,68.15,12.0
+Direct,11804,116.58,15.0
+Groups,4942,74.86,27.0
+Offline TA/TO,13888,81.38,15.0
+Online TA,51618,118.17,35.0
+Undefined,2,15.0,100.0

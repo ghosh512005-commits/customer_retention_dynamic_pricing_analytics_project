@@ -1,0 +1,5 @@
+customer_type,Total_Bookings,Average_ADR,Cancellation_Rate
+Contract,3139,92.75,16.0
+Group,544,84.36,10.0
+Transient,71985,110.06,30.0
+Transient-Party,11727,87.68,15.0
