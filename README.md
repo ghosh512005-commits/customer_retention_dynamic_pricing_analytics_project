@@ -227,7 +227,7 @@ Interactive Filters:
 
 ## Executive Dashboard
 
->![Executive Dashboard](screenshots/week4/executive_dashboard.png.png)
+>![Executive Dashboard](screenshots/week4/executive_overview.png.png)
 
 ---
 
