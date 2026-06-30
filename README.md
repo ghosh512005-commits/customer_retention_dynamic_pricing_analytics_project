@@ -227,13 +227,13 @@ Interactive Filters:
 
 ## Executive Dashboard
 
->![Executive Dashboard](screenshots/week4/executive_dashboard.png)
+>![Executive Dashboard](screenshots/week4/executive_dashboard.png.png)
 
 ---
 
 ## Business Insights Dashboard
 
->![Business Insights](screenshots/week4/business_insights.png)
+>![Business Insights](screenshots/week4/business_insights.png.png)
 
 ---
 
